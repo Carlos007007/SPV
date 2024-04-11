@@ -17,4 +17,4 @@ Importante no olvide colocar en la URL si es http o https</p>
 <p>Clave: Administrador</p>
 
 # VIDEO DE INSTALACION
-<a href="" target="_blank">Ver video en YouTube</a>
+<a href="https://youtu.be/e4vh5Bgi3EY" target="_blank">Ver video en YouTube</a>
